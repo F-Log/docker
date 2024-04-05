@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/F-Log/backend.git
+[submodule "ai"]
+	path = ai
+	url = https://github.com/F-Log/ai.git
